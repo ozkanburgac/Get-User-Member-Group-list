@@ -1,0 +1,1 @@
+﻿Get-ADPrincipalGroupMembership “ozkan.burgac” | select name
